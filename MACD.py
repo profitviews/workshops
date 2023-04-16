@@ -1,4 +1,4 @@
-# Note: this is to be used within profitview.net/trading/bots
+# Note: this file is to be used within profitview.net/trading/bots
 
 from profitview import Link, http, logger
 

@@ -1,12 +1,13 @@
 # Introduction
 
-This project is based on a workshop given by [ProfitView](https://profitview.net) on March 21, 2023. You can watch the video replay of the event here:
+This project is based on a series of workshops given by [ProfitView](https://profitview.net). You can watch the video replay of the events here:
 
-https://profitview.net/events/algorithmic-trading-with-python
+- [Algorithmic Trading with Python](https://profitview.net/events/algorithmic-trading-with-python)
+- [Algorithmic Trading with Python - Part II](https://profitview.net/events/algorithmic-trading-with-python-part-2)
 
-This first workshop is part of a series. Further workshops will have the code examples stored in this repository.
+Further workshops will have the code examples stored in this repository.
 
-The second workshop will go through the implementation of the strategy in more detail, where we will observe the strategy running in a live environment.
+The third workshop will go through the implementation of the order and position management of the strategy in a live environment.
 
 
 # Getting Started
