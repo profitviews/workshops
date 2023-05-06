@@ -4,6 +4,7 @@ This project is based on a series of workshops given by [ProfitView](https://pro
 
 - [Algorithmic Trading with Python](https://profitview.net/events/algorithmic-trading-with-python)
 - [Algorithmic Trading with Python - Part II](https://profitview.net/events/algorithmic-trading-with-python-part-2)
+- [Algorithmic Trading with Python - Part II](https://profitview.net/events/algorithmic-trading-with-python-part-3) (coming - Wednesday 10 May)
 
 Further workshops will have the code examples stored in this repository.
 
