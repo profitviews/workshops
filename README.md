@@ -105,7 +105,7 @@ c. Add this API key to ProfitView within [Settings > Exchanges](https://profitvi
 
 d. To create a Trading Bot instance, you will need to be on at least the [Hobbyist plan](https://profitview.net/app/settings/plans).
 
-e. Once the required plan has been activated, go to the [Trading Bots](https://profitview.net/trading/bots) page, and use the file [MACD.py](blob/main/MACD.py), at your own discretion to run the code covered in the 3rd workshop.
+e. Once the required plan has been activated, go to the [Trading Bots](https://profitview.net/trading/bots) page, and use the file [MACD.py](MACD.py), at your own discretion to run the code covered in the 3rd workshop.
 
 f. Note that you will need to subscribe to market data for the symbols you are interested in trading by clicking the thunder bolt icon on the left side of the code editor.
 
