@@ -2,13 +2,18 @@
 
 This project is based on a series of workshops given by [ProfitView](https://profitview.net). You can watch the video replay of the events here:
 
-- [Algorithmic Trading with Python](https://profitview.net/events/algorithmic-trading-with-python)
+- [Algorithmic Trading with Python - Part I](https://profitview.net/events/algorithmic-trading-with-python)
 - [Algorithmic Trading with Python - Part II](https://profitview.net/events/algorithmic-trading-with-python-part-2)
 - [Algorithmic Trading with Python - Part III](https://profitview.net/events/algorithmic-trading-with-python-part-3) (coming - Wednesday 10 May)
 
 Further workshops will have the code examples stored in this repository.
 
 The third workshop will go through the implementation of the order and position management of the strategy in a live environment.
+
+**Note:** this repository and associated talks are for educational
+purposes only. Nothing contained herein constitutes as investment
+advice or offers any advice with respect to the suitability of any
+crypto security or trading strategy.
 
 
 # Getting Started
