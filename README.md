@@ -93,9 +93,7 @@ A new browser tab should open up with the project contents, where you can run th
 
 Before running the trading strategy in ProfitView, we recommend you get familiar with the documentation, available [here](https://profitview.net/docs/trading/).
 
-The file contains the code covered in the 3rd workshop. 
-
-Steps:
+**Steps:**
 
 a. Create an account on ProfitView if you haven't done so already - link [here](https://profitview.net/register).
 
