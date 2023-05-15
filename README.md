@@ -88,3 +88,28 @@ jupyter lab
 ```
 
 A new browser tab should open up with the project contents, where you can run the notebook `.ipynb` files from. Note that you will need to select the `workshops` kernel if it is not already selected to ensure that all the dependencies are available in your notebook.
+
+## 6. Running the Trading Strategy in a live environment
+
+Before running the trading strategy in ProfitView, we recommend you get familiar with the documentation, available [here](https://profitview.net/docs/trading/).
+
+The file contains the code covered in the 3rd workshop. 
+
+Steps:
+
+a. Create an account on ProfitView if you haven't done so already - link [here](https://profitview.net/register).
+
+b. After signing up, go to [BitMEX](https://www.bitmex.com/) and create an API key with "Key Permissions" set to "Order". No withdrawal access is required, so keep this unchecked.
+
+c. Add this API key to ProfitView within [Settings > Exchanges](https://profitview.net/app/settings/exchanges). 
+
+d. To create a Trading Bot instance, you will need to be on at least the [Hobbyist plan](https://profitview.net/app/settings/plans).
+
+e. Once the required plan has been activated, go to the [Trading Bots](https://profitview.net/trading/bots) page, and use the file [MACD.py](blob/main/MACD.py), at your own discretion to run the code covered in the 3rd workshop.
+
+f. Note that you will need to subscribe to market data for the symbols you are interested in trading by clicking the thunder bolt icon on the left side of the code editor.
+
+
+## 7. Follow ups and Help
+
+If you have any issues running anything above, please do not hesistate to reach out either by emailing support@profitview.net or messaging the [Telegram group](https://t.me/+7B-cYq4n8ds0ZmU0). We are very happy to help.
