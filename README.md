@@ -67,10 +67,24 @@ Once all non-Python dependencies are installed re-run the pip install command ab
 
 ## 5. Run the Jupyter Lab notebook
 
-From your command line run
+Now that the dependencies are installed in your virtual environment, you will also need to make the `pyenv` kernel available for Jupyter. 
+
+To do this run the following, with the `workshops` environment activated:
+
+```shell
+python -m ipykernel install --user --name=workshops
+```
+
+If you list the available Jupyter kernels, you should now see this `pyenv` kernel:
+
+```shell
+jupyter kernelspec list 
+```
+
+Now you will be able to run Jupyter Lab each time by running the following: 
 
 ```shell
 jupyter lab
 ```
 
-A new browser tab should open up with the project contents, where you can run the notebook `.ipynb` files from.
+A new browser tab should open up with the project contents, where you can run the notebook `.ipynb` files from. Note that you will need to select the `workshops` kernel if it is not already selected to ensure that all the dependencies are available in your notebook.
